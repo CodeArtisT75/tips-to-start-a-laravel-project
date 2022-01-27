@@ -227,7 +227,7 @@ to integrate dev tools with git hooks you can use [Composer git hooks](https://g
 
 before installation you should put these codesline of codes in the `composer.json` file of your laravel project.
 
-```json
+```javascript
 {
   // composer.json file
 
